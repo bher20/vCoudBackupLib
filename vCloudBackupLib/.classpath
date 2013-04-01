@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/VMware-vCloudDirector-JavaSDK/SDK-5.1.0/vcloud-java-sdk-samples-5.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/VMware-vCloudDirector-JavaSDK/SDK-5.1.0/rest-api-schemas-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/VMware-vCloudDirector-JavaSDK/SDK-5.1.0/vcloud-java-sdk-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/VMware-vCloudDirector-JavaSDK/SDK-5.1.0/libs/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/VMware-vCloudDirector-JavaSDK/SDK-5.1.0/libs/amqp-client-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/VMware-vCloudDirector-JavaSDK/SDK-5.1.0/libs/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/VMware-vCloudDirector-JavaSDK/SDK-5.1.0/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/VMware-vCloudDirector-JavaSDK/SDK-5.1.0/libs/httpclient-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Brad Herring/My Documents/Development/Java/Libraries/poi-3.9/poi-3.9-20121203.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

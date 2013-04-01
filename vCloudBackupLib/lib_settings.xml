@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+<settings>
+	<system>
+		<templates>
+			<template>
+				<cpu>1</cpu>
+				<memory>2</memory>
+			</template>
+			<template>
+				<cpu>2</cpu>
+				<memory>4</memory>
+			</template>
+			<template>
+				<cpu>4</cpu>
+				<memory>8</memory>
+			</template>
+			<template>
+				<cpu>8</cpu>
+				<memory>16</memory>
+			</template>
+		</templates>
+		<environments>
+			<environment name="production">PR</environment>
+			<environment name="staging">ST</environment>
+			<environment name="development">DV</environment>
+		</environments>
+	</system>
+</settings>
